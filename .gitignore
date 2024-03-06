@@ -1,0 +1,45 @@
+# Project exclude paths
+/.gradle/
+/Cinema Room Manager/task/build/
+/Cinema Room Manager/task/out/
+/Cinema Room Manager/task/out/production/classes/
+/Topics/Array exceptions/Out of bounds/out/
+/Topics/Array exceptions/Out of bounds/out/production/classes/
+/Topics/Arrays as parameters/Inverse boolean flags/out/
+/Topics/Arrays as parameters/Inverse boolean flags/out/production/classes/
+/Topics/Break and continue. Branching/Even or odd/out/
+/Topics/Break and continue. Branching/Even or odd/out/production/classes/
+/Topics/Calling methods/Area of parallelogram/out/
+/Topics/Calling methods/Area of parallelogram/out/production/classes/
+/Topics/Conditional statement/Check a number is positive/out/
+/Topics/Conditional statement/Check a number is positive/out/production/classes/
+/Topics/Declaring methods/The sign of a number/out/
+/Topics/Declaring methods/The sign of a number/out/production/classes/
+/Topics/Declaring methods/Vowel or not/out/
+/Topics/Declaring methods/Vowel or not/out/production/classes/
+/Topics/Floating-point types/Evaluate an expression/out/
+/Topics/Floating-point types/Evaluate an expression/out/production/classes/
+/Topics/For-loop/The count of numbers divisible by N/out/
+/Topics/For-loop/The count of numbers divisible by N/out/production/classes/
+/Topics/Functional decomposition/Calculator with four methods/out/
+/Topics/Functional decomposition/Calculator with four methods/out/production/classes/
+/Topics/Functional decomposition/Kate's math function/out/
+/Topics/Functional decomposition/Kate's math function/out/production/classes/
+/Topics/Functional decomposition/Method createFullName/out/
+/Topics/Functional decomposition/Method createFullName/out/production/classes/
+/Topics/Iterating over arrays/The sum of array elements/out/
+/Topics/Iterating over arrays/The sum of array elements/out/production/classes/
+/Topics/Method  main/Print  Hello, Java/out/
+/Topics/Method  main/Print  Hello, Java/out/production/classes/
+/Topics/Method  main/Print  We are robots/out/
+/Topics/Method  main/Print  We are robots/out/production/classes/
+/Topics/Multiple conditions  switch/Harry Potter/out/
+/Topics/Multiple conditions  switch/Harry Potter/out/production/classes/
+/Topics/Multiple conditions  switch/Test learners/out/
+/Topics/Multiple conditions  switch/Test learners/out/production/classes/
+/Topics/NullPointerException/Avoid NPE/out/
+/Topics/NullPointerException/Avoid NPE/out/production/classes/
+/Topics/One-line condition with ternary operator/Determining if an integer is odd or even/out/
+/Topics/One-line condition with ternary operator/Determining if an integer is odd or even/out/production/classes/
+/Topics/While and do-while loops/The length of the sequence/out/
+/Topics/While and do-while loops/The length of the sequence/out/production/classes/

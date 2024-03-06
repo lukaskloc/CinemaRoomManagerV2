@@ -1,0 +1,8 @@
+content:
+  - Theory
+  - Lines that may throw NPE
+  - Unknown input
+  - Avoid NPE
+  - Return empty string when argument is null
+  - Where NPE might occur
+  - Safe conversion of input into a string

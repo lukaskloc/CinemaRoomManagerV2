@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Cinema Room Manager/task" />
+            <option value="$PROJECT_DIR$/Cinema Room Manager/task/build/classes/java" />
+            <option value="$PROJECT_DIR$/Cinema Room Manager/task/build/generated/sources/annotationProcessor/java" />
+            <option value="$PROJECT_DIR$/Cinema Room Manager/task/build/generated/sources/headers/java" />
+            <option value="$PROJECT_DIR$/Cinema Room Manager/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Cinema Room Manager/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Cinema Room Manager/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/Array exceptions/Determine an exception" />
+            <option value="$PROJECT_DIR$/Topics/Array exceptions/Explore the standard class library" />
+            <option value="$PROJECT_DIR$/Topics/Array exceptions/Is the code fully protected" />
+            <option value="$PROJECT_DIR$/Topics/Array exceptions/Out of bounds" />
+            <option value="$PROJECT_DIR$/Topics/Array exceptions/Statements" />
+            <option value="$PROJECT_DIR$/Topics/Array exceptions/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Arrays as parameters/Application as a class" />
+            <option value="$PROJECT_DIR$/Topics/Arrays as parameters/How to invoke the method" />
+            <option value="$PROJECT_DIR$/Topics/Arrays as parameters/Inverse boolean flags" />
+            <option value="$PROJECT_DIR$/Topics/Arrays as parameters/The declaration of the sumAll method" />
+            <option value="$PROJECT_DIR$/Topics/Arrays as parameters/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Arrays as parameters/What does the method print" />
+            <option value="$PROJECT_DIR$/Topics/Break and continue. Branching/Even or odd" />
+            <option value="$PROJECT_DIR$/Topics/Break and continue. Branching/Excluding a specific number in loop output" />
+            <option value="$PROJECT_DIR$/Topics/Break and continue. Branching/Statement for skipping an iteration" />
+            <option value="$PROJECT_DIR$/Topics/Break and continue. Branching/Statements" />
+            <option value="$PROJECT_DIR$/Topics/Break and continue. Branching/The integer barrier" />
+            <option value="$PROJECT_DIR$/Topics/Break and continue. Branching/The same results" />
+            <option value="$PROJECT_DIR$/Topics/Break and continue. Branching/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Calling methods/Area of parallelogram" />
+            <option value="$PROJECT_DIR$/Topics/Calling methods/Call me awesome" />
+            <option value="$PROJECT_DIR$/Topics/Calling methods/Calling myMethod  Store the Result" />
+            <option value="$PROJECT_DIR$/Topics/Calling methods/Correct names for methods" />
+            <option value="$PROJECT_DIR$/Topics/Calling methods/Invoking Methods with Type Casting" />
+            <option value="$PROJECT_DIR$/Topics/Calling methods/Method invocation" />
+            <option value="$PROJECT_DIR$/Topics/Calling methods/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/Check a number is positive" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/Determine the output" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/Determining range of an integer  low, mid or high" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/Healthy sleep" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/Statements" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/Symmetrical number" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Declaring methods/Method signature" />
+            <option value="$PROJECT_DIR$/Topics/Declaring methods/The elements of a method" />
+            <option value="$PROJECT_DIR$/Topics/Declaring methods/The sign of a number" />
+            <option value="$PROJECT_DIR$/Topics/Declaring methods/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Declaring methods/Vowel or not" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types/Determine the integer part" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types/Determine the result" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types/Distance" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types/Evaluate an expression" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types/Explain the result" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types/Statements" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types/What is the value" />
+            <option value="$PROJECT_DIR$/Topics/For-loop/Creating a program to identify even and odd numbers" />
+            <option value="$PROJECT_DIR$/Topics/For-loop/From sum to product" />
+            <option value="$PROJECT_DIR$/Topics/For-loop/Generate an inverted pyramid from asterisks" />
+            <option value="$PROJECT_DIR$/Topics/For-loop/Grades" />
+            <option value="$PROJECT_DIR$/Topics/For-loop/Squaring odd numbers in a sequence" />
+            <option value="$PROJECT_DIR$/Topics/For-loop/Statements" />
+            <option value="$PROJECT_DIR$/Topics/For-loop/The count of numbers divisible by N" />
+            <option value="$PROJECT_DIR$/Topics/For-loop/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Functional decomposition/A quadratic equation" />
+            <option value="$PROJECT_DIR$/Topics/Functional decomposition/Calculator with four methods" />
+            <option value="$PROJECT_DIR$/Topics/Functional decomposition/Decomposing switch cases in Java" />
+            <option value="$PROJECT_DIR$/Topics/Functional decomposition/How to decompose correctly" />
+            <option value="$PROJECT_DIR$/Topics/Functional decomposition/Kate's math function" />
+            <option value="$PROJECT_DIR$/Topics/Functional decomposition/Method createFullName" />
+            <option value="$PROJECT_DIR$/Topics/Functional decomposition/The main tools of functional decomposition" />
+            <option value="$PROJECT_DIR$/Topics/Functional decomposition/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Functional decomposition/Why decompose a program" />
+            <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Check if an array is sorted ascending" />
+            <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Classifying integers as 'Odd' or 'Even'" />
+            <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Find the sum" />
+            <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Select one loop" />
+            <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Sum array elements greater than a value" />
+            <option value="$PROJECT_DIR$/Topics/Iterating over arrays/The maximum product of adjacent elements" />
+            <option value="$PROJECT_DIR$/Topics/Iterating over arrays/The sum of array elements" />
+            <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Method  main/Print  Hello, Java" />
+            <option value="$PROJECT_DIR$/Topics/Method  main/Print  We are robots" />
+            <option value="$PROJECT_DIR$/Topics/Method  main/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Multiple conditions  switch/Creating a digit to word conversion program" />
+            <option value="$PROJECT_DIR$/Topics/Multiple conditions  switch/Creating a weekday converter for calendar app" />
+            <option value="$PROJECT_DIR$/Topics/Multiple conditions  switch/From string to a number" />
+            <option value="$PROJECT_DIR$/Topics/Multiple conditions  switch/Harry Potter" />
+            <option value="$PROJECT_DIR$/Topics/Multiple conditions  switch/Removing breaks" />
+            <option value="$PROJECT_DIR$/Topics/Multiple conditions  switch/Rewriting code using switch" />
+            <option value="$PROJECT_DIR$/Topics/Multiple conditions  switch/Shape" />
+            <option value="$PROJECT_DIR$/Topics/Multiple conditions  switch/Test learners" />
+            <option value="$PROJECT_DIR$/Topics/Multiple conditions  switch/Theory" />
+            <option value="$PROJECT_DIR$/Topics/NullPointerException/Avoid NPE" />
+            <option value="$PROJECT_DIR$/Topics/NullPointerException/Lines that may throw NPE" />
+            <option value="$PROJECT_DIR$/Topics/NullPointerException/Return empty string when argument is null" />
+            <option value="$PROJECT_DIR$/Topics/NullPointerException/Safe conversion of input into a string" />
+            <option value="$PROJECT_DIR$/Topics/NullPointerException/Theory" />
+            <option value="$PROJECT_DIR$/Topics/NullPointerException/Unknown input" />
+            <option value="$PROJECT_DIR$/Topics/NullPointerException/Where NPE might occur" />
+            <option value="$PROJECT_DIR$/Topics/One-line condition with ternary operator/Check if a given number is equal to 10" />
+            <option value="$PROJECT_DIR$/Topics/One-line condition with ternary operator/Determining Fizz, Buzz, or FizzBuzz for a number" />
+            <option value="$PROJECT_DIR$/Topics/One-line condition with ternary operator/Determining if an integer is odd or even" />
+            <option value="$PROJECT_DIR$/Topics/One-line condition with ternary operator/Double ternary operator" />
+            <option value="$PROJECT_DIR$/Topics/One-line condition with ternary operator/Given two variables" />
+            <option value="$PROJECT_DIR$/Topics/One-line condition with ternary operator/Rewriting a conditional statement" />
+            <option value="$PROJECT_DIR$/Topics/One-line condition with ternary operator/The max of the longs" />
+            <option value="$PROJECT_DIR$/Topics/One-line condition with ternary operator/Theory" />
+            <option value="$PROJECT_DIR$/Topics/One-line condition with ternary operator/What does the double ternary operator do" />
+            <option value="$PROJECT_DIR$/Topics/One-line condition with ternary operator/Write a ternary operator" />
+            <option value="$PROJECT_DIR$/Topics/While and do-while loops/Determine the result" />
+            <option value="$PROJECT_DIR$/Topics/While and do-while loops/Powers of two" />
+            <option value="$PROJECT_DIR$/Topics/While and do-while loops/Statements" />
+            <option value="$PROJECT_DIR$/Topics/While and do-while loops/The largest element of a sequence" />
+            <option value="$PROJECT_DIR$/Topics/While and do-while loops/The length of the sequence" />
+            <option value="$PROJECT_DIR$/Topics/While and do-while loops/The sequence" />
+            <option value="$PROJECT_DIR$/Topics/While and do-while loops/Theory" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
